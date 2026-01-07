@@ -11,8 +11,8 @@
 - 🎓 Final year student passionate about **Data Science & Machine Learning**
 - 🌱 Currently learning **Python, Machine Learning, Statistics**
 - 🧠 Interested in **System Design & Problem Solving**
-- 💬 Ask me about **Python, Pandas, NumPy, scikit-learn**
-- 📫 Reach me at: **(add your email here)**
+- 💬 Ask me about **Python, Pandas, NumPy,Matplotlib, Seaborn, scikit-learn**
+- 📫 Reach me at: **(shahnawazsaifi2006@gmail.com)**
 
 ---
 
