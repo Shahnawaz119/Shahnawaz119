@@ -37,14 +37,8 @@
 
 <h3>📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shahnawaz119&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahnawaz119&theme=tokyonight" />
 </p>
-
-<h3>🔥 GitHub Streak</h3>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shahnawaz119&theme=tokyonight" />
-</p>
-
 
 ---
 
