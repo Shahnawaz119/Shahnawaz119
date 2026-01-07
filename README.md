@@ -41,19 +41,27 @@
 </p>
 
 ---
+<h3 align="center">🐍 Contribution Snake</h3>
+
+<picture>
+  <!-- Dark mode -->
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Shahnawaz119/Shahnawaz119/output/github-contribution-grid-snake-dark.svg" />
+
+  <!-- Light mode -->
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Shahnawaz119/Shahnawaz119/output/github-contribution-grid-snake.svg" />
+
+  <!-- Fallback -->
+  <img alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/Shahnawaz119/Shahnawaz119/output/github-contribution-grid-snake.svg" />
+</picture>
+
 
 <h3>🔥 Coding Activity</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahnawaz119&theme=github-compact" />
 </p>
-
-<h3 align="center">🐍 Contribution Snake</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shahnawaz119/Shahnawaz119/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-
 
 
 ---
