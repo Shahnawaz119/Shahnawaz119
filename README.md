@@ -49,8 +49,9 @@
 <h3 align="center">🐍 Contribution Snake</h3>
 
 <p align="center">
-  <img src="https://github.com/Shahnawaz119/Shahnawaz119/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Shahnawaz119/Shahnawaz119/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 
 ---
