@@ -8,11 +8,11 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 3rd year student passionate about **Data Science & Machine Learning**
-- 🌱 Currently learning **DSA, Machine Learning, Statistics**
+- 🎓 Final year student passionate about **Data Science & Machine Learning**
+- 🌱 Currently learning **Python, Machine Learning, Statistics**
 - 🧠 Interested in **System Design & Problem Solving**
-- 💬 Ask me about **Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn**
-- 📫 Reach me at: **shahnawazsaifi2006@gmail.com**
+- 💬 Ask me about **Python, Pandas, NumPy, scikit-learn**
+- 📫 Reach me at: **(add your email here)**
 
 ---
 
@@ -30,28 +30,25 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shahnawaz119&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahnawaz119&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=Shahnawaz119&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 🌍 Connect With Me
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30"/>
-  </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Shahnawaz119">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="30"/>
   </a>
 </p>
@@ -59,8 +56,3 @@
 ---
 
 ⭐ *If you like my work, consider giving a star to my repositories!*
-
-
-
-
-
