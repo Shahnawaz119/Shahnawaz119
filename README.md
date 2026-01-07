@@ -35,14 +35,16 @@
 
 ---
 
-### 📊 GitHub Stats
+<h3>📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shahnawaz119&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shahnawaz119&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 </p>
 
+<h3>🔥 GitHub Streak</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahnawaz119&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Shahnawaz119&theme=tokyonight" />
 </p>
+
 
 ---
 
