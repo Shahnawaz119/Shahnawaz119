@@ -1,9 +1,65 @@
-<h1 align="center">Hi 👋, I'm Shahnawaz</h1>
-<h3 align="center">Aspiring Data Scientist | ML Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Shahnawaz Saifi</h1>
+<h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast</h3>
 
 <p align="center">
   <img src="./banner.png" alt="Banner" />
 </p>
+
+---
+
+### 👨‍💻 About Me
+- 🎓 3rd year student passionate about **Data Science & Machine Learning**
+- 🌱 Currently learning **DSA, Machine Learning, Statistics**
+- 🧠 Interested in **System Design & Problem Solving**
+- 💬 Ask me about **Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn**
+- 📫 Reach me at: **shahnawazsaifi2006@gmail.com**
+
+---
+
+### 🧰 Languages & Tools
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+### 🌍 Connect With Me
+<p>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30"/>
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="30"/>
+  </a>
+</p>
+
+---
+
+⭐ *If you like my work, consider giving a star to my repositories!*
+
 
 
 
