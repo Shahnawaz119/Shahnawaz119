@@ -41,11 +41,11 @@
 </p>
 
 ---
-
-<h3>🐍 Contribution Activity</h3>
+<h3>🔥 Coding Activity</h3>
 <p align="center">
-  <img src="https://github.com/Shahnawaz119/Shahnawaz119/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahnawaz119&theme=github-compact" />
 </p>
+
 
 
 ---
