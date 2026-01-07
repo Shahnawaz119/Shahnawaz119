@@ -41,6 +41,10 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shahnawaz119/Shahnawaz119/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 <h3>🔥 Coding Activity</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahnawaz119&theme=github-compact" />
