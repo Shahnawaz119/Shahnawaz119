@@ -42,10 +42,11 @@
 
 ---
 
-### 🔥 GitHub Streak
+<h3>🐍 Contribution Activity</h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Shahnawaz119&theme=tokyonight&hide_border=true" />
+  <img src="https://github.com/Shahnawaz119/Shahnawaz119/blob/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 ---
 
