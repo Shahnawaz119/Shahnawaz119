@@ -9,6 +9,7 @@
 </p>
 
 <p align="center">
+  <a href="https://shahnawaz119.github.io/"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/shahnawaz-saifi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/u/Shahnawaz2006/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="mailto:shahnawazsaifi2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -23,6 +24,7 @@
 - 🚀 I build end-to-end projects: data → model → **live deployed app**
 - 🧠 Strong in **DSA & problem solving**: 500+ problems solved on LeetCode
 - 💼 Open to **internships, entry-level roles & hackathons**
+- 🌐 Portfolio: **[shahnawaz119.github.io](https://shahnawaz119.github.io/)**
 - 📫 Reach me at: **shahnawazsaifi2006@gmail.com**
 
 ---
